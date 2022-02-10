@@ -4,6 +4,8 @@ File transfer application that will allow to transfer any type of files across t
 
 These codes are Python based, and have been tested on Windows 10 OS only.
 
+*The private key is hard coded in both the server and client, you need to change it*
+
 If you want to use the server on a machine that's different than the client's make sure
 to write the IP @ in the 'Client.py' and set it to the IP @ of the server and put it inside "".
 Ensure you use the same name as the files that are attached with the codes (client_data, server_data).
